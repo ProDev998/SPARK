@@ -87,3 +87,5 @@ class Physics:
         """Compute gravitational force between two masses."""
         gravitational_constant = 6.67430e-11
         return gravitational_constant * mass1 * mass2 / distance ** 2
+
+# SPARK - Scientific Python Analysis and Research Kit © 2024 by Vedansh Pandey is licensed under CC BY 4.0 
