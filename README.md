@@ -36,3 +36,6 @@ Physics.vector_magnitude(vector)
 Physics.trigonometry_functions(angle)
 Physics.gravitational_force(mass1, mass2, distance)
 
+# License
+
+According to the CC BY 4.0, a user is allowed to remix and even commercially use this project but they will have to include a credit to the creator for their contribution to this project.
